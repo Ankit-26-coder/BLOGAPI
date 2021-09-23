@@ -5,3 +5,7 @@ for admin page you have to put this url on admin page
 # create new id command --
 python3 manage.py createsuperuser
 
+# api view
+Through this url you can see the post list
+![api](https://user-images.githubusercontent.com/78656754/134477989-1fd4674f-5f49-4dcb-bdb4-179d742ed4a5.png)
+
