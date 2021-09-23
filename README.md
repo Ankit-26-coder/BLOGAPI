@@ -9,3 +9,7 @@ python3 manage.py createsuperuser
 Through this url you can see the post list
 ![api](https://user-images.githubusercontent.com/78656754/134477989-1fd4674f-5f49-4dcb-bdb4-179d742ed4a5.png)
 
+# api view 1
+if you want to see the first blog  then enter this url
+![api1](https://user-images.githubusercontent.com/78656754/134478325-49f29512-c8fd-4df6-aa7d-069617cf3d9e.png)
+
